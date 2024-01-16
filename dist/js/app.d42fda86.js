@@ -263,7 +263,7 @@
                         Object(n["e"])(
                           "source",
                           {
-                            src: t("1771")("./".concat(p)),
+                            src: t("1771")("./jornhub/".concat(p)),
                             type: "video/mp4",
                             onClick:
                               e[1] ||
@@ -282,7 +282,7 @@
                         "img",
                         {
                           key: 1,
-                          src: t("1771")("./".concat(p)),
+                          src: t("1771")("./jornhub/".concat(p)),
                           alt: "jorn-" + o,
                         },
                         null,
