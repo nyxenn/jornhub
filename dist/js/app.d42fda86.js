@@ -90,22 +90,22 @@
     p.exports = t.p + "media/41.db97edaa.mp4";
   },
   "068d": function (p, e, t) {
-    p.exports = t.p + "img/11.d46aee28.jpg";
+    p.exports = t.p + "jornhub/img/11.d46aee28.jpg";
   },
   "06d4": function (p, e, t) {
-    p.exports = t.p + "img/6.85259162.jpg";
+    p.exports = t.p + "jornhub/img/6.85259162.jpg";
   },
   "089f": function (p, e, t) {
-    p.exports = t.p + "img/38.1b59efb2.jpg";
+    p.exports = t.p + "jornhub/img/38.1b59efb2.jpg";
   },
   "0a06": function (p, e, t) {
-    p.exports = t.p + "img/14.e36938e5.jpg";
+    p.exports = t.p + "jornhub/img/14.e36938e5.jpg";
   },
   "11d9": function (p, e, t) {
-    p.exports = t.p + "img/3.592358d5.jpg";
+    p.exports = t.p + "jornhub/img/3.592358d5.jpg";
   },
   "15ea": function (p, e, t) {
-    p.exports = t.p + "img/8.63941a64.jpg";
+    p.exports = t.p + "jornhub/img/8.63941a64.jpg";
   },
   1771: function (p, e, t) {
     var n = {
@@ -179,16 +179,16 @@
   },
   "1bdf": function (p, e, t) {},
   "1fd8": function (p, e, t) {
-    p.exports = t.p + "img/34.0ee648fa.jpg";
+    p.exports = t.p + "jornhub/img/34.0ee648fa.jpg";
   },
   "264d": function (p, e, t) {
-    p.exports = t.p + "img/48.18ea4632.jpg";
+    p.exports = t.p + "jornhub/img/48.18ea4632.jpg";
   },
   "290b": function (p, e, t) {
-    p.exports = t.p + "img/37.71028248.jpg";
+    p.exports = t.p + "jornhub/img/37.71028248.jpg";
   },
   "2e36": function (p, e, t) {
-    p.exports = t.p + "img/25.bde2be12.jpg";
+    p.exports = t.p + "jornhub/img/25.bde2be12.jpg";
   },
   "312b": function (p, e, t) {},
   "314d": function (p, e, t) {
@@ -196,34 +196,34 @@
     t("312b");
   },
   "32a5": function (p, e, t) {
-    p.exports = t.p + "img/7.b496057e.jpg";
+    p.exports = t.p + "jornhub/img/7.b496057e.jpg";
   },
   "36d0": function (p, e, t) {
-    p.exports = t.p + "img/30.44df3672.jpg";
+    p.exports = t.p + "jornhub/img/30.44df3672.jpg";
   },
   "3f7c": function (p, e, t) {
-    p.exports = t.p + "img/32.175fe29e.jpg";
+    p.exports = t.p + "jornhub/img/32.175fe29e.jpg";
   },
   "3fa9": function (p, e, t) {
-    p.exports = t.p + "img/47.be30e505.jpg";
+    p.exports = t.p + "jornhub/img/47.be30e505.jpg";
   },
   "405a": function (p, e, t) {
-    p.exports = t.p + "img/2.bfd99df1.jpg";
+    p.exports = t.p + "jornhub/img/2.bfd99df1.jpg";
   },
   "431a": function (p, e, t) {
-    p.exports = t.p + "img/15.369beaad.jpg";
+    p.exports = t.p + "jornhub/img/15.369beaad.jpg";
   },
   "4d0f": function (p, e, t) {
-    p.exports = t.p + "img/5.83436690.jpg";
+    p.exports = t.p + "jornhub/img/5.83436690.jpg";
   },
   "4e6b": function (p, e, t) {
-    p.exports = t.p + "img/17.eb69a79c.jpg";
+    p.exports = t.p + "jornhub/img/17.eb69a79c.jpg";
   },
   "4f4b": function (p, e, t) {
-    p.exports = t.p + "img/28.78459105.jpg";
+    p.exports = t.p + "jornhub/img/28.78459105.jpg";
   },
   "51e9": function (p, e, t) {
-    p.exports = t.p + "img/24.062ccfb1.jpg";
+    p.exports = t.p + "jornhub/img/24.062ccfb1.jpg";
   },
   "55d9": function (p, e, t) {
     "use strict";
@@ -263,7 +263,7 @@
                         Object(n["e"])(
                           "source",
                           {
-                            src: t("1771")("jornhub/".concat(p)),
+                            src: t("1771")("./".concat(p)),
                             type: "video/mp4",
                             onClick:
                               e[1] ||
@@ -282,7 +282,7 @@
                         "img",
                         {
                           key: 1,
-                          src: t("1771")("jornhub/".concat(p)),
+                          src: t("1771")("./".concat(p)),
                           alt: "jorn-" + o,
                         },
                         null,
@@ -386,93 +386,93 @@
     O.mount("#app");
   },
   "58c1": function (p, e, t) {
-    p.exports = t.p + "img/16.e48a7689.jpg";
+    p.exports = t.p + "jornhub/img/16.e48a7689.jpg";
   },
   "5cb9": function (p, e, t) {
-    p.exports = t.p + "img/27.33971fb9.jpg";
+    p.exports = t.p + "jornhub/img/27.33971fb9.jpg";
   },
   "5ee2": function (p, e, t) {
-    p.exports = t.p + "img/29.5ecd87e3.jpg";
+    p.exports = t.p + "jornhub/img/29.5ecd87e3.jpg";
   },
   "67ce": function (p, e, t) {
-    p.exports = t.p + "img/22.2f19724f.jpg";
+    p.exports = t.p + "jornhub/img/22.2f19724f.jpg";
   },
   "68d7": function (p, e, t) {
-    p.exports = t.p + "img/35.6dffe8dc.jpg";
+    p.exports = t.p + "jornhub/img/35.6dffe8dc.jpg";
   },
   "6d96": function (p, e, t) {
-    p.exports = t.p + "img/9.12a00cb1.jpg";
+    p.exports = t.p + "jornhub/img/9.12a00cb1.jpg";
   },
   "6e32": function (p, e, t) {
-    p.exports = t.p + "img/31.f5f82b89.jpg";
+    p.exports = t.p + "jornhub/img/31.f5f82b89.jpg";
   },
   8554: function (p, e, t) {
-    p.exports = t.p + "img/1.eca797e8.jpg";
+    p.exports = t.p + "jornhub/img/1.eca797e8.jpg";
   },
   "85e3": function (p, e, t) {
-    p.exports = t.p + "img/42.47295870.jpg";
+    p.exports = t.p + "jornhub/img/42.47295870.jpg";
   },
   "896f": function (p, e, t) {
-    p.exports = t.p + "img/33.b929e3e8.jpg";
+    p.exports = t.p + "jornhub/img/33.b929e3e8.jpg";
   },
   a47a: function (p, e, t) {
     p.exports = t.p + "media/39.c4c26c42.mp4";
   },
   a7a8: function (p, e, t) {
-    p.exports = t.p + "img/36.2272a0b7.jpg";
+    p.exports = t.p + "jornhub/img/36.2272a0b7.jpg";
   },
   a823: function (p, e, t) {
-    p.exports = t.p + "img/20.d256f96a.jpg";
+    p.exports = t.p + "jornhub/img/20.d256f96a.jpg";
   },
   b8f0: function (p, e, t) {},
   bafb: function (p, e, t) {
-    p.exports = t.p + "img/4.c8a79273.jpg";
+    p.exports = t.p + "jornhub/img/4.c8a79273.jpg";
   },
   bdd1: function (p, e, t) {
-    p.exports = t.p + "img/19.1f416ea6.jpg";
+    p.exports = t.p + "jornhub/img/19.1f416ea6.jpg";
   },
   c246: function (p, e, t) {
-    p.exports = t.p + "img/13.cb80211a.jpg";
+    p.exports = t.p + "jornhub/img/13.cb80211a.jpg";
   },
   cab7: function (p, e, t) {
-    p.exports = t.p + "img/45.f51b7d02.jpg";
+    p.exports = t.p + "jornhub/img/45.f51b7d02.jpg";
   },
   cc60: function (p, e, t) {
     p.exports = t.p + "media/43.25358afc.mp4";
   },
   cca4: function (p, e, t) {
-    p.exports = t.p + "img/46.ab03e0f1.jpg";
+    p.exports = t.p + "jornhub/img/46.ab03e0f1.jpg";
   },
   cf05: function (p, e, t) {
-    p.exports = t.p + "img/logo.a8b246b8.png";
+    p.exports = t.p + "jornhub/img/logo.a8b246b8.png";
   },
   d1e4: function (p, e, t) {
-    p.exports = t.p + "img/26.3d07a7e6.jpg";
+    p.exports = t.p + "jornhub/img/26.3d07a7e6.jpg";
   },
   d385: function (p, e, t) {
-    p.exports = t.p + "img/44.b7262302.jpg";
+    p.exports = t.p + "jornhub/img/44.b7262302.jpg";
   },
   d423: function (p, e, t) {
-    p.exports = t.p + "img/23.435c88ee.jpg";
+    p.exports = t.p + "jornhub/img/23.435c88ee.jpg";
   },
   d878: function (p, e, t) {
-    p.exports = t.p + "img/21.8fa0d038.jpg";
+    p.exports = t.p + "jornhub/img/21.8fa0d038.jpg";
   },
   e834: function (p, e, t) {
-    p.exports = t.p + "img/12.ca88bdfb.jpg";
+    p.exports = t.p + "jornhub/img/12.ca88bdfb.jpg";
   },
   eeba: function (p, e, t) {
     "use strict";
     t("1bdf");
   },
   efcc: function (p, e, t) {
-    p.exports = t.p + "img/10.fac2c1dd.jpg";
+    p.exports = t.p + "jornhub/img/10.fac2c1dd.jpg";
   },
   f34a: function (p, e, t) {
-    p.exports = t.p + "img/40.c0158a5e.jpg";
+    p.exports = t.p + "jornhub/img/40.c0158a5e.jpg";
   },
   f992: function (p, e, t) {
-    p.exports = t.p + "img/18.4fd89229.jpg";
+    p.exports = t.p + "jornhub/img/18.4fd89229.jpg";
   },
 });
 //# sourceMappingURL=app.d42fda86.js.map
