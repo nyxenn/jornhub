@@ -1,15 +1,19 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div>
+    <JornNavigation />
+    <JornDex />
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import JornDex from './components/JornDex.vue'
+import JornNavigation from './components/JornNavigation.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    JornDex,
+    JornNavigation
   }
 }
 </script>
@@ -20,7 +24,5 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
