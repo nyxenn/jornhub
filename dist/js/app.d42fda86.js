@@ -87,7 +87,7 @@
     p.exports = t("56d7");
   },
   "0125": function (p, e, t) {
-    p.exports = t.p + "media/41.db97edaa.mp4";
+    p.exports = t.p + "jornhub/media/41.db97edaa.mp4";
   },
   "068d": function (p, e, t) {
     p.exports = t.p + "jornhub/img/11.d46aee28.jpg";
@@ -416,7 +416,7 @@
     p.exports = t.p + "jornhub/img/33.b929e3e8.jpg";
   },
   a47a: function (p, e, t) {
-    p.exports = t.p + "media/39.c4c26c42.mp4";
+    p.exports = t.p + "jornhub/media/39.c4c26c42.mp4";
   },
   a7a8: function (p, e, t) {
     p.exports = t.p + "jornhub/img/36.2272a0b7.jpg";
@@ -438,7 +438,7 @@
     p.exports = t.p + "jornhub/img/45.f51b7d02.jpg";
   },
   cc60: function (p, e, t) {
-    p.exports = t.p + "media/43.25358afc.mp4";
+    p.exports = t.p + "jornhub/media/43.25358afc.mp4";
   },
   cca4: function (p, e, t) {
     p.exports = t.p + "jornhub/img/46.ab03e0f1.jpg";
